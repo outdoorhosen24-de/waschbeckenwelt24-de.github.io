@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/viega", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/viega-ablaufgarnitur-tempoplex-6961-kunststoff-verchromt-115-cm-x-dn-40-50-viega-8563249-1.jpg":"\u002Fassets\u002Fimages\u002Fviega-ablaufgarnitur-tempoplex-6961-kunststoff-verchromt-115-cm-x-dn-40-50-viega-8563249-1.webp"}}],fetch:{},mutations:void 0});
