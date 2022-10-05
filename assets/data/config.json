@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "waschbeckenwelt24.de",
+    "hostname": "https://www.waschbeckenwelt24.de/",
+    "email": "waschbeckenwelt24.desurrealnetworks.io",
+    "organization": "waschbeckenwelt24.de",
+    "logoText": "Waschbeckenwelt24.de",
+    "title": "Zubeh\u00f6r f\u00fcr Waschbecken",
+    "subline": "Der Online Shop f\u00fcr Zubeh\u00f6r f\u00fcr Waschbecken",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "1769405",
+        "7527161",
+        "7077175",
+        "5024856",
+        "2169696",
+        "4456786"
+    ],
+    "winnerProducts": [
+        "7077175",
+        "9396581",
+        "5912779"
+    ],
+    "featuredCategories": [
+        "Waschbeckenst\u00f6psel",
+        "Deko-Stopfen",
+        "Waschbeckenst\u00f6psel",
+        "Kugelketten",
+        "Ablaufgarnituren",
+        "Kugelketten"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Zubeh\u00f6r f\u00fcr Waschbecken",
-        "featureText": "Your featured text goes here",
+        "featureText": "Das Gesch\u00e4ft bietet Zubeh\u00f6r f\u00fcr Waschbecken. Es gibt eine gro\u00dfe Auswahl an verschiedenen Arten von Zubeh\u00f6r, von denen viele f\u00fcr die Reinigung und Pflege des Beckens n\u00fctzlich sind. Es gibt auch einige dekorative Elemente, die das Aussehen des Beckens verbessern k\u00f6nnen.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Zubeh\u00f6r f\u00fcr Waschbecken",
+            "metaDescription": "Zubeh\u00f6r f\u00fcr Waschbecken - Finden Sie die passende Auswahl an Zubeh\u00f6r f\u00fcr Ihr Waschbecken.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Zubeh\u00f6r f\u00fcr Waschbecken: Reinigung, Ablauf, Montage",
+                    "text": "Zubeh\u00f6r f\u00fcr Waschbecken ist ein wesentlicher Bestandteil eines jeden Badezimmers. Es gibt eine Vielzahl von verschiedenen Arten von Zubeh\u00f6r f\u00fcr Waschbecken, die alle ihre eigenen speziellen Funktionen haben. Zubeh\u00f6r f\u00fcr Waschbecken kann in der Regel in zwei Kategorien unterteilt werden: funktionelles Zubeh\u00f6r und dekoratives Zubeh\u00f6r. Funktionelles Zubeh\u00f6r umfasst alle Arten von Zubeh\u00f6r, die f\u00fcr die eigentliche Funktion eines Waschbeckens erforderlich sind, w\u00e4hrend dekoratives Zubeh\u00f6r alle Arten von Zubeh\u00f6r umfasst, die das Aussehen eines Waschbeckens verbessern k\u00f6nnen.\n\nEinige der h\u00e4ufigsten Arten von funktionellem Zubeh\u00f6r f\u00fcr Waschbecken sind Ablaufgarnituren, Wasserh\u00e4hne, Dichtungen und Rohre. Ablaufgarnituren sind ein wesentlicher Bestandteil eines jeden Waschbeckens, da sie daf\u00fcr sorgen, dass das Wasser richtig abl\u00e4uft. Wasserh\u00e4hne sind ebenfalls ein wesentlicher Bestandteil eines jeden Waschbeckens, da sie daf\u00fcr sorgen, dass das Wasser richtig flie\u00dft. Dichtungen sind wichtig, um sicherzustellen, dass das Wasser nicht unter das Waschbecken gelangt, w\u00e4hrend Rohre daf\u00fcr sorgen, dass das Wasser richtig flie\u00dft.\n\nEinige der h\u00e4ufigsten Arten von dekorativem Zubeh\u00f6r f\u00fcr Waschbecken sind Spiegel, Leuchten und Zierleisten. Spiegel sind eine gro\u00dfartige M\u00f6glichke"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Zubeh\u00f6r f\u00fcr Waschbecken Shop",
+            "metaDescription": "Zubeh\u00f6r f\u00fcr Waschbecken im Shop kaufen.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Zubeh\u00f6r f\u00fcr Waschbecken - manufacturer",
+            "metaDescription": "Zubeh\u00f6r f\u00fcr Waschbecken - Finden Sie die passende Auswahl an Zubeh\u00f6r f\u00fcr Ihr Waschbecken bei uns im Shop. W\u00e4hlen Sie aus verschiedenen Designs und Gr\u00f6\u00dfen.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Zubeh\u00f6r f\u00fcr Waschbecken: $PRODUKT",
+        "defaultMetaDescription": "Zubeh\u00f6r f\u00fcr Waschbecken: $PRODUKT von $HERSTELLER. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Zubeh\u00f6r f\u00fcr $KATEGORIE: Tipps f\u00fcr die Auswahl",
+        "defaultMetaDescription": "Zubeh\u00f6r f\u00fcr Waschbecken: Seifenspender, Ablaufgarnituren, Wasserh\u00e4hne und mehr. Finden Sie das passende Zubeh\u00f6r f\u00fcr Ihr Waschbecken in unserer Kategorie $KATEGORIE.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "Zubeh\u00f6r f\u00fcr Waschbecken von $HERSTELLER - hier finden Sie alles, was Sie f\u00fcr Ihr Waschbecken ben\u00f6tigen!",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Zubeh\u00f6r f\u00fcr Waschbecken",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Zubeh\u00f6r f\u00fcr Waschbecken Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Zubeh\u00f6r f\u00fcr Waschbecken Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
