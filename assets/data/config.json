@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "waschbeckenwelt24.de",
     "hostname": "https://www.waschbeckenwelt24.de/",
     "email": "waschbeckenwelt24.de@surrealnetworks.io",
     "organization": "waschbeckenwelt24.de",
     "logoText": "Waschbeckenwelt24.de",
-    "title": "Zubehör für Waschbecken",
-    "subline": "Der Online Shop für Zubehör für Waschbecken",
+    "title": "Waschbeckenstöpsel & Ablaufgarnituren",
+    "subline": "Der Online Shop für Waschbecken-Zubehör",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Zubehör für Waschbecken",
-        "featureText": "Das Geschäft bietet Zubehör für Waschbecken. Es gibt eine große Auswahl an verschiedenen Arten von Zubehör, von denen viele für die Reinigung und Pflege des Beckens nützlich sind. Es gibt auch einige dekorative Elemente, die das Aussehen des Beckens verbessern können.",
+        "featureText": "Herzlich willkommen in unserem Shop! Wir bieten Ihnen eine große Auswahl an Waschbeckenstöpseln für jeden Anwendungsbereich und in sämtlichen Designs. Wir führen Top-Marken wie Geberit, Hansgrohe, Viega, Kaldewei und viele mehr. Der Bestellprozess in unserem Shop läuft reibungslos: einfache Produktsuche über Kategorien oder Marken sowie schnelle Lieferung zu Ihnen nach Hause. Überzeugen Sie sich von unserem Angebot!",
         "index": {
-            "title": "Zubehör für Waschbecken",
-            "metaDescription": "Zubehör für Waschbecken - Finden Sie die passende Auswahl an Zubehör für Ihr Waschbecken.",
+            "title": "Waschbeckenstöpsel & Ablaufgarnituren",
+            "metaDescription": "Hier erhältlich! | Waschbeckenstöpsel für sämtliche Abläufe & Ablaufgarnituren | Alles für ein schönes und funktionierendes Waschbecken | Günstige Preise!",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Zubehör für Waschbecken Shop",
-            "metaDescription": "Zubehör für Waschbecken im Shop kaufen.",
+            "title": "Waschbeckenstöpsel & Ablaufgarnituren | Online Shop",
+            "metaDescription": "Riesige Auswahl an Waschbeckenstöpseln und Ablaufgarnituren | Bequem von Zuhause bestellen! | Einfache Produktsuche » Günstige Preise » Schnelle Lieferung",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Zubehör für Waschbecken - manufacturer",
-            "metaDescription": "Zubehör für Waschbecken - Finden Sie die passende Auswahl an Zubehör für Ihr Waschbecken bei uns im Shop. Wählen Sie aus verschiedenen Designs und Größen.",
+            "title": "Waschbeckenstöpsel & Ablaufgarnituren | Top Hersteller",
+            "metaDescription": "Entdecken Sie Zubehör für Waschbecken! | Unsere Top Hersteller für Waschbeckenstöpsel & Ablaufgarnituren auf einen Blick! | Geberit﹣Hansgrohe﹣Viega und Co.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Zubehör für Waschbecken: $PRODUKT",
-        "defaultMetaDescription": "Zubehör für Waschbecken: $PRODUKT von $HERSTELLER. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultTitle": "$PRODUKT günstig kaufen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER | Hier das passende Zubehör für Ihr Waschbecken bestellen! | Weitere tolle Kategorien neben $KATEGORIE!.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Zubehör für $KATEGORIE: Tipps für die Auswahl",
-        "defaultMetaDescription": "Zubehör für Waschbecken: Seifenspender, Ablaufgarnituren, Wasserhähne und mehr. Finden Sie das passende Zubehör für Ihr Waschbecken in unserer Kategorie $KATEGORIE.",
+        "defaultTitle": "$KATEGORIE﹣Riesige Auswahl",
+        "defaultMetaDescription": "Entdecken Sie tolle Produkte aus der Kategorie $KATEGORIE | Bei uns im Shop vorrätig! | Schnelle Lieferung zu Ihnen nach Hause! | Hier klicken und bestellen!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Zubehör für Waschbecken von $HERSTELLER - hier finden Sie alles, was Sie für Ihr Waschbecken benötigen!",
+        "defaultTitle": "$HERSTELLER ﹣Top Qualität & Fairer Preis",
+        "defaultMetaDescription": "Bestellen Sie Produkte vom namhaften Hersteller: $HERSTELLER | Top Qualität zum fairen Preis! | Hier finden Sie neben $HERSTELLER weitere Top Hersteller",
         "defaultRobots": "index, follow",
         "brands": [
             {
