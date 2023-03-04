@@ -2,14 +2,14 @@
     {
         "key": "abflussstöpsel",
         "name": "Abflussstöpsel",
-        "slug": "abflussstopsel",
+        "slug": "abflussstoepsel",
         "productCategory": "Abflussstöpsel",
         "subCategories": []
     },
     {
         "key": "waschbeckenstöpsel",
         "name": "Waschbeckenstöpsel",
-        "slug": "waschbeckenstopsel",
+        "slug": "waschbeckenstoepsel",
         "productCategory": "Waschbeckenstöpsel",
         "subCategories": []
     },
